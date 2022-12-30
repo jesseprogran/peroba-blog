@@ -37,7 +37,7 @@ deixando a página com mais interação.
 O projeto foi bem divertido, depois de compreender
 bem a funcionalidade do uso do flex box, ele nos dá 
 uma eficiência para criar leiautes, alinhamento e distribuição
-de esopaços entre os itens em um container.
+de espaços entre os itens em um container.
 
 
 
